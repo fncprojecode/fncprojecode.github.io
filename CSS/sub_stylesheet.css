@@ -1,0 +1,51 @@
+body {background-color:#ffe633}
+/*color yellow*/
+
+/*add to ALL active hyperlinks ONLY*/
+
+h {font-family: Helvectica, Arial, sans-serif;}
+
+
+html, body {height: 100%}
+
+li {display: block;}
+
+h1 {text-align:center;}
+
+h2 {text-align:center;}
+
+h3 {text-align:center;}
+
+p {text-align: left;}
+
+body {width:860px;
+	margin: auto;
+	text-align:center;}
+
+.nav ul{list-style: none;}
+
+.nav li {display:block}
+
+.flex-item {padding: 150px;
+background-color: #ffe633;}
+
+/*yellowish color*/
+
+.nav ul {
+    list-style-type: none;
+    padding-left: 0px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.row {display: flex; 
+}
+.col {padding: 10px;
+}
+.col img {width: 100%;
+}
+
+
+
+
+
